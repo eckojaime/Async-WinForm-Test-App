@@ -166,7 +166,7 @@
       this.Controls.Add(this.buttonGetStudentsAsyncAwait);
       this.Controls.Add(this.dataGridViewStudents);
       this.Name = "StudentForm";
-      this.Text = "Applied30710 Students";
+      this.Text = "Async WinForm Students";
       ((System.ComponentModel.ISupportInitialize)(this.dataGridViewStudents)).EndInit();
       this.ResumeLayout(false);
       this.PerformLayout();
